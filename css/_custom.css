@@ -1,5 +1,6 @@
 img.profile-pic {
-  width: 180px;
+  max-width: 200px;
+  height: auto;
   float: right;
   margin: 0 0 1em 1em;
   border-radius: 8px; /* optional */
