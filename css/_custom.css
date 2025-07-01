@@ -1,7 +1,6 @@
-img[alt="profile pic"] {
+img.profile-pic {
+  width: 180px;
   float: right;
-  width: 100px;
   margin: 0 0 1em 1em;
-  max-width: 100%;
-  height: auto;
+  border-radius: 8px; /* optional */
 }
