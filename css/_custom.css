@@ -1,8 +1,7 @@
 img.profile-pic {
-  width: 8px;
+  width: 100px !important;
   float: right;
-  margin: 0 0 1em 1em;
-  border-radius: 8px; /* optional */
+  margin: 0 0 10px 10px;
 }
 
 .float-right {
